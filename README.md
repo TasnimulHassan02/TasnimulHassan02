@@ -25,7 +25,7 @@
 <a href="https://dev.to/md. tasnimul hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md. tasnimul hassan" height="30" width="40" /></a>
 <a href="https://twitter.com/@tasnimulhassan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tasnimulhassan2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tasnimul hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnimul hassan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tasnimulhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tasnimulhassan" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/tasnimulhassan](https://leetcode.com/u/TasnimulHassan02/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tasnimulhassan" height="30" width="40" /></a>
 </p>
 <br>
 
