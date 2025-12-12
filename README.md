@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@tasnimulhassan2" target="blank"><img src="https://img.shields.io/twitter/follow/@tasnimulhassan2?logo=twitter&style=for-the-badge" alt="@tasnimulhassan2" /></a> </p>
 
-- 🔭 I’m currently working on **GroAI Appliction**
+- 🔭 I’m currently working on **GrowAI Appliction**
 
 - 🌱 I’m currently learning **MERN**
 
