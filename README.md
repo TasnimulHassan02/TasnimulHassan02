@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tasnimul Hassan</h1>
-<h3 align="center">A passionate Problem Solver from Bangladesh</h3>
 <h4 align="center">Focused on building products and services that solve real world problems and help people in large scale</h4>
 <br><br>
 <img align="right" alt="Coding" width="420" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYvNx5EdY30F3Mn8SOcUPeM6toAITDoDuEw&usqp=CAU">
